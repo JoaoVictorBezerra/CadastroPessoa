@@ -1,0 +1,9 @@
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\bin\Debug\CadastroPessoa.exe.config
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\obj\Debug\CadastroPessoa.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\obj\Debug\CadastroPessoa.PessoaUIL.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\obj\Debug\CadastroPessoa.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\obj\Debug\CadastroPessoa.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\bin\Debug\CadastroPessoa.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\bin\Debug\CadastroPessoa.pdb
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\obj\Debug\CadastroPessoa.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\CadastroPessoa\CadastroPessoa\obj\Debug\CadastroPessoa.pdb
